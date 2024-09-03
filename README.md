@@ -33,7 +33,7 @@ The transition probabilities for each action are as follows:
 ### Graphical Representation:
 ![img](ClassDiagram1.png)
 ### Formula
-![Alt text](image.png)
+![Alt text](https://github.com/naveenkumar12624/RL-EX-02-policy-evaluation/raw/main/image.png)
 
 ## POLICY EVALUATION FUNCTION
 ```py
