@@ -31,7 +31,7 @@ The transition probabilities for each action are as follows:
 ♣ The agent receives a reward of 0 for all other states.
 
 ### Graphical Representation:
-![img](ClassDiagram1.png)
+![img](https://github.com/naveenkumar12624/RL-EX-02-policy-evaluation/raw/main/ClassDiagram1.png)
 ### Formula
 ![Alt text](https://github.com/naveenkumar12624/RL-EX-02-policy-evaluation/raw/main/image.png)
 
