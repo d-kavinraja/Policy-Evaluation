@@ -70,15 +70,15 @@ else:
 
 ## OUTPUT:
 #### Policy 1
-![Alt](Output\o1.png)
-![Alt](Output\o2.png)
-![Alt](Output\o3.png)
+![Alt](./Output/o1.png)
+![Alt](./Output/o2.png)
+![Alt](./Output/o3.png)
 #### Policy 2
-![Alt](Output\o4.png)
-![Alt](Output\o5.png)
-![Alt](Output\o6.png)
+![Alt](./Output/o4.png)
+![Alt](./Output/o5.png)
+![Alt](./Output/o6.png)
 #### Comparison & Conclusion
-![Alt](Output\o7.png)
-![Alt](Output\o8.png)
+![Alt](./Output/o7.png)
+![Alt](./Output/o8.png)
 ## RESULT:
 Thus the Given Policy have been ***Evaluated*** and ***Optimal Policy*** has been Computed using Python Programming.
